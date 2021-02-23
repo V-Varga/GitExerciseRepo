@@ -5,3 +5,6 @@ b_file.txt
 
 #insert file types here
 *.log
+
+#insert subdirectories here
+Data/
