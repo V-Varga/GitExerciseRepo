@@ -2,3 +2,6 @@
 
 #insert files here
 b_file.txt
+
+#insert file types here
+*.log
