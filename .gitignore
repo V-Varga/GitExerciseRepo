@@ -1,7 +1,1 @@
 #this is a .gitignore file
-
-#files go here
-b_file.txt
-
-#file types go here
-*.log
